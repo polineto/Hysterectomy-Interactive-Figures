@@ -107,7 +107,7 @@ Raw data are publicly available at [datasus.saude.gov.br](http://datasus.saude.g
 
 If you use these visualisations, please cite the associated manuscript:
 
-> **[Author names].** Hysterectomy for non-malignant conditions in the Brazilian Public Health System, 2008-2024: a nationwide population-based study of trends, technicity and socioeconomic disparities. *The Lancet Regional Health – Americas* (under review). DOI: [to be assigned upon publication]
+> **[Recife SA, Costa BBM, Rosa-e-Silva JC, Brito LGO, Spadotto-Dias D, Candido-dos-Reis FJ, Tiezzi DG,  Poli-Neto OB].** Hysterectomy for non-malignant conditions in the Brazilian Public Health System, 2008-2024: a nationwide population-based study of trends, technicity and socioeconomic disparities. 2026. DOI: [to be assigned upon publication]
 
 ---
 
